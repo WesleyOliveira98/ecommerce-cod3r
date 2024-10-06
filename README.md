@@ -8,3 +8,6 @@ Tecnologias Utilizadas:
 - React.js
 - Tailwind.css
 - Tabler Icons
+- Turbo Repo
+- Nest.js
+- Prisma
