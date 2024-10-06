@@ -11,3 +11,4 @@ Tecnologias Utilizadas:
 - Turbo Repo
 - Nest.js
 - Prisma
+- PostgreSQL
